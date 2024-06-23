@@ -1,4 +1,4 @@
-# Eye--Exercise
+# Eye Exercise
 
 This project is eyes following the movement of the mouse when it passes over. It made with CSS, HTML and Java Script
 
